@@ -21,7 +21,7 @@ Use this project as a template for a Web App that uses an API and runs with Node
 
 ## Authors
 
-  - **teo003**
+  - **geokal21**
 
 ## License
 
